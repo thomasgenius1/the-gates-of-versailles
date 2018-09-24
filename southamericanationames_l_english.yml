@@ -1,0 +1,14 @@
+﻿l_english:
+ GNA_fascism:0 "New Granada Empire"
+ GNA_fascism_DEF:0 "the New Granada Empire"
+ GNA_democratic:0 "Free Granada Republic"
+ GNA_democratic_DEF:0 "the Free Granada Republic"
+ GNA_neutrality:1 "Gran Granada"
+ GNA_neutrality_DEF:1 "the colony of Gran Granda"
+ GNA_communism:0 "Socialist Republic of Germany"
+ GNA_communism_DEF:0 "the Socialist Republic of Germany"
+ GNA_fascism_ADJ:0 "Columbian-Veneuzeulan"
+ GNA_democratic_ADJ:0 "Columbian-Veneuzeulan"
+ GNA_neutrality_ADJ:0 "Columbian-Veneuzeulan"
+ GNA_communism_ADJ:0 "Columbian-Veneuzeulan"
+ 
