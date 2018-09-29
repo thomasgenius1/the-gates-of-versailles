@@ -1,0 +1,24 @@
+﻿l_english:
+ GNA_democratic:0 "Free Granada Republic"
+ GNA_democratic_DEF:0 "the Free Granada Republic"
+ GNA_monarchist:1 "Gran Granada"
+ GNA_monarchist_DEF:1 "Gran Granda"
+ GNA_democratic_ADJ:0 "Columbian-Veneuzeulan"
+ GNA_monarchist_ADJ:0 "Columbian-Veneuzeulan"
+ LAP_democratic:0 "Radical La Plata"
+ LAP_democratic_DEF:0 "Radical La Plata"
+ LAP_monarchist:1 "La Plata"
+ LAP_monarchist_DEF:1 "La Plata"
+ LAP_democratic_ADJ:0 "Argentenian"
+ LAP_monarchist_ADJ:0 "Argentenian"
+ DMQ_democratic:0 "Free Haiti"
+ DMQ_democratic_DEF:0 "the free Haitian Republic"
+ DMQ_monarchist:1 "French colony of Saint Domingue"
+ DMQ_monarchist_DEF:1 "the French colony of Saint Domingue"
+ DMQ_democratic_ADJ:0 "Haitian"
+ DMQ_monarchist_ADJ:0 "Haitian-French"
+ 
+ #Subject Names
+ GNA_subject:0 "$OVERLORDADJ$ Gran Granada"
+ LAP_subject:0 "$OVERLORDADJ$ La Plata"
+ 
