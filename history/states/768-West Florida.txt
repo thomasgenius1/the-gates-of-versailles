@@ -1,0 +1,16 @@
+state={
+	id=768
+	name="STATE_763"
+	history = {
+		owner = NSP
+		buildings = {
+			infrastructure=2
+		}
+	}
+	provinces={
+		1453 4464 7480 7524 7668 10520 
+	}
+	manpower=25000
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

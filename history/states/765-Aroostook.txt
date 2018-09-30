@@ -1,9 +1,16 @@
 state={
 	id=765
 	name="STATE_765"
+	history = {
+		owner = ENG
+		buildings = {
+			infrastructure=2
+		}
+	}
 	provinces={
 		4287 10247 12221 
 	}
-	manpower=0
+	manpower=9000
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 }
