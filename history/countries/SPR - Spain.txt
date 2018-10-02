@@ -51,3 +51,7 @@ set_autonomy = {
 	target = LAP
 	autonomous_state =  autonomy_puppet
 }
+set_autonomy = {
+	target = NSP
+	autonomous_state =  autonomy_puppet
+}
