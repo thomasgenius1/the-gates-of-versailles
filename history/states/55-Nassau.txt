@@ -4,7 +4,7 @@ state={
 	name="STATE_55"
 
 	history={
-		owner = GER
+		owner = WES
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
@@ -14,7 +14,7 @@ state={
 		victory_points = {
 			6488 20.0 
 		}
-		add_core_of = GER
+		add_core_of = WES
 		1939.1.1 = {
 			buildings = {
 				air_base = 3
