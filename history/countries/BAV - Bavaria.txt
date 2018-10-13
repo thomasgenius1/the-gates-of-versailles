@@ -1,4 +1,4 @@
-﻿capital = 
+﻿capital = 52
 
 OOB = ""
 

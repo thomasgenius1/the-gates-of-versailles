@@ -2,7 +2,7 @@ state={
 	id=768
 	name="STATE_768"
 	history={
-		owner = GER
+		owner = BAD
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
@@ -10,7 +10,7 @@ state={
 			air_base = 2
 
 		}
-		add_core_of = GER
+		add_core_of = BAD
 	}
 	provinces={
 		3530 3692 6542 6568 6712 11640 
