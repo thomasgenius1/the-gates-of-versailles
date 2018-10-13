@@ -114,3 +114,4 @@ MAN = "countries/Manchukou.txt"
 ################
 BAD = "countries/Baden.txt"
 BAV = "countries/Bavaria.txt"
+NAP = "countries/Naples.txt"
