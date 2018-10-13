@@ -21,6 +21,10 @@ WES = {
 	color = rgb { 215 183 53 }
 	color_ui = rgb { 215 183 53 }
 }
+WIN = {
+	color = rgb { 1 118 167 }
+	color_ui = rgb { 190 176 144 }
+}
 ######## CHANGED VANILLA COLORS
 GER = {
 	color = rgb { 100 100 100 }
@@ -553,4 +557,8 @@ D14 = {
 D15 = {
 	color = rgb { 194 140 86 }
 	color_ui = rgb { 252 182 112 }
+}
+NAP = {
+	color = rgb { 190 176 144 }
+	color_ui = rgb { 190 176 144 }
 }
