@@ -1,0 +1,21 @@
+state={
+	id=768
+	name="STATE_768"
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 2
+
+		}
+		add_core_of = GER
+	}
+	provinces={
+		3530 3692 6542 6568 6712 11640 
+	}
+	manpower=2211000
+	state_category=city
+	buildings_max_level_factor=1.000
+}

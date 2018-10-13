@@ -1,0 +1,21 @@
+state={
+	id=764
+	name="STATE_764"
+	history={
+		owner = BEL
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+
+		}
+		add_core_of = HOL
+		add_core_of = BEL
+
+	}
+	provinces={
+		6500 11562 
+	}
+	manpower=214000
+	state_category=rural
+	buildings_max_level_factor=1.000
+}
