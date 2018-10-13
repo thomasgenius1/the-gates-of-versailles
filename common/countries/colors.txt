@@ -562,7 +562,3 @@ NAP = {
 	color = rgb { 190 176 144 }
 	color_ui = rgb { 190 176 144 }
 }
-WIN = {
-	color = rgb { 1 118 167 }
-	color_ui = rgb { 190 176 144 }
-}
